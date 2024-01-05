@@ -5,6 +5,7 @@ resolved: false
 severity: down
 affected:
   - Primary NAS
+  - Download services
   - Plex
   - Jellyfin
 section: issue
