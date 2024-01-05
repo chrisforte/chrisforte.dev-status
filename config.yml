@@ -114,7 +114,7 @@ params:
     - name: Overseer
       description: Request service for Plex
       category: Services
-      link: https://overseer.chrisforte.dev/
+      link: https://overseerr.chrisforte.dev/
     - name: CalDAV and CardDAV
       description: Shared calendar, tasks, and address books
       category: Services
