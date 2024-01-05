@@ -10,4 +10,6 @@ affected:
 section: issue
 ---
 
+*Update* - As of {{< track "2024-01-05 14:40:00" >}}, the storage pool rebuild is on step 2 of 2 at 42% complete.
+
 Replacing a hard drive in the primary NAS to increase available storage. Media servers (plex, emby, jellyfin) will be unavailable while the array rebuilds itself.
