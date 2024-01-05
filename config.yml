@@ -131,6 +131,9 @@ params:
     - name: Jellyfin
       category: Services
       link: https://jellyfin.chrisforte.dev/
+    - name: Home Assistant
+      category: Services
+      link: https://ha.chrisforte.dev/
 
   # What date format to use?
   # Hugo formatting docs:
