@@ -94,11 +94,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: Network
-    - name: Switches
-      category: Network
-    - name: Access points
+    - name: Internet access
       category: Network
     - name: Container host
       category: Servers
@@ -131,9 +127,6 @@ params:
     - name: Jellyfin
       category: Services
       link: https://jellyfin.chrisforte.dev/
-    - name: Home Assistant
-      category: Services
-      link: https://ha.chrisforte.dev/
 
   # What date format to use?
   # Hugo formatting docs:
